@@ -1,7 +1,7 @@
 # Анализ и визуализация данных
 ## Python
-- [x] Python - Введение в колаб, создание графиков
-- [x] Python - Введение в колаб, создание интерактивность
+- [x] Python - Введение в колаб, создание графиков => [Лабораторная 1](https://github.com/Gremler5442/colab-lab/blob/main/Python_Lab1colab.ipynb)
+- [x] Python - Введение в колаб, создание интерактивность => [Лабораторная 2](https://github.com/Gremler5442/colab-lab/blob/main/Python_Lab2colab.ipynb)
 - [ ] Python - Pandas
 - [ ] Python - Python сбор и подготовка данных, создание датасетов
 ## Tableau
