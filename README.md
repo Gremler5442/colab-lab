@@ -5,7 +5,7 @@
 - [x] Python - Pandas => [Доп.задание](https://github.com/Gremler5442/colab-lab/blob/main/Python_LabPandasColab.ipynb) (***не проверено***)
 - [ ] Python - Python сбор и подготовка данных, создание датасетов
 ## Tableau
-- [ ] Tableau - Практика
+- [x] Tableau - Практика => [Дашборд 1, 2](https://github.com/Gremler5442/colab-lab/blob/main/TableauView1.ipynb) (***не проверено***)
 - [ ] Tableau - Практика + set
 - [ ] Tableau - Аналитика
 - [ ] Tableau - Дополнения, нестандартные диаграммы
