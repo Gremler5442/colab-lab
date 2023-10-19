@@ -6,7 +6,5 @@
 - [ ] Python - Python сбор и подготовка данных, создание датасетов
 ## Tableau (задания этого года)
 - [x] Tableau - Практика 1.1 => [Дашборд породы собак](https://github.com/Gremler5442/colab-lab/blob/main/Tableau1_1.ipynb) | [Обычная ссылка](https://public.tableau.com/views/Dogsdash/sheet4?:language=en-US&:display_count=n&:origin=viz_share_link) (***проверено***)
-- [ ] Tableau - Looker Studio => [Дашборд книги looker]() | [Обычная ссылка](https://lookerstudio.google.com/reporting/dcc55c9b-87e6-409e-a8e3-422e40b70afa) (***не проверено***)
-- [ ] Tableau - Аналитика
-- [ ] Tableau - Дополнения, нестандартные диаграммы
-- [ ] Tableau - Кастомизация дашбордов
+- [ ] Tableau - Практика 1.2 часть 1 => [Дашборд книги looker]() | [Обычная ссылка](https://lookerstudio.google.com/reporting/dcc55c9b-87e6-409e-a8e3-422e40b70afa) (***не проверено***)
+- [ ] Tableau - Практика 1.2 часть 2 => [Дашборд книги datalens]() | [Обычная ссылка](https://lookerstudio.google.com/reporting/dcc55c9b-87e6-409e-a8e3-422e40b70afa) (***не проверено***)
