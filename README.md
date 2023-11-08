@@ -9,4 +9,4 @@
 - [ ] Tableau - Практика 1.2 часть 1 => Дашборд книги looker [Обычная ссылка](https://lookerstudio.google.com/reporting/dcc55c9b-87e6-409e-a8e3-422e40b70afa) (***не проверено***)
 - [ ] Tableau - Практика 1.2 часть 2 => Дашборд книги datalens [Обычная ссылка](https://datalens.yandex/t5bk9c1bn5l4i) (***не проверено***)
 ## R Language (задания этого года)
-- [x] Heatmap, Radar, Faces => [Лабораторная 2.3](https://github.com/Gremler5442/colab-lab/blob/main/R_Lang_Labs.ipynb) (***не проверено***)
+- [ ] Heatmap, Radar, Faces => [Лабораторная 2.3](https://github.com/Gremler5442/colab-lab/blob/main/R_Lang_Labs.ipynb) (***не проверено***)
